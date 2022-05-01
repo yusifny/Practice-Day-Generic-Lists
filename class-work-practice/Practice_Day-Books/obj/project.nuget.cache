@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjSOfLltuoFa3te7HauXzq/zKdO3w+FV/WhnqFESdB98EXItT3DaiRgRfSxnu3L9wz07NY1XXAPr2z2MUbyDIQ==",
+  "success": true,
+  "projectFilePath": "/Users/yusifnazarbayov/Desktop/class-work-practice/Practice_Day-Books/Practice_Day-Books.csproj",
+  "expectedPackageFiles": [
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.24/microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512",
+    "/Users/yusifnazarbayov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
